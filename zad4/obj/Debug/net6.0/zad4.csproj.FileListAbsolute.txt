@@ -1,0 +1,15 @@
+/Users/dkokorev/Desktop/seminar1/zad4/bin/Debug/net6.0/zad4
+/Users/dkokorev/Desktop/seminar1/zad4/bin/Debug/net6.0/zad4.deps.json
+/Users/dkokorev/Desktop/seminar1/zad4/bin/Debug/net6.0/zad4.runtimeconfig.json
+/Users/dkokorev/Desktop/seminar1/zad4/bin/Debug/net6.0/zad4.dll
+/Users/dkokorev/Desktop/seminar1/zad4/bin/Debug/net6.0/ref/zad4.dll
+/Users/dkokorev/Desktop/seminar1/zad4/bin/Debug/net6.0/zad4.pdb
+/Users/dkokorev/Desktop/seminar1/zad4/obj/Debug/net6.0/zad4.csproj.AssemblyReference.cache
+/Users/dkokorev/Desktop/seminar1/zad4/obj/Debug/net6.0/zad4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkokorev/Desktop/seminar1/zad4/obj/Debug/net6.0/zad4.AssemblyInfoInputs.cache
+/Users/dkokorev/Desktop/seminar1/zad4/obj/Debug/net6.0/zad4.AssemblyInfo.cs
+/Users/dkokorev/Desktop/seminar1/zad4/obj/Debug/net6.0/zad4.csproj.CoreCompileInputs.cache
+/Users/dkokorev/Desktop/seminar1/zad4/obj/Debug/net6.0/zad4.dll
+/Users/dkokorev/Desktop/seminar1/zad4/obj/Debug/net6.0/ref/zad4.dll
+/Users/dkokorev/Desktop/seminar1/zad4/obj/Debug/net6.0/zad4.pdb
+/Users/dkokorev/Desktop/seminar1/zad4/obj/Debug/net6.0/zad4.genruntimeconfig.cache
